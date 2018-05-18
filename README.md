@@ -1,1 +1,1 @@
-# company_project
+# wordpress_sample

@@ -1,0 +1,42 @@
+/*
+Theme Name:	Simple Theme
+Theme URI:	www.simpletheme.com
+Author Name: Gyong Ryul Kim;
+Author URI: www.KGR.com;
+Description: A simple wordpress theme;
+Tags: one, two, three, four;
+*/
+body{
+	background: silver;
+	text-align: justify;
+}
+a{
+	text-decoration:none;
+}
+.container li{
+	list-style: none;
+	display: inline-block;
+	padding: 8px 10px;
+}
+.container, header, footer, nav{
+	width: 800px;
+	margin: 0 auto;
+}
+header h1{
+	padding-left: 10px;
+}
+.post_loop{
+	 width: 590px;
+	 text-align: justify;
+	 padding: 5px;
+}
+aside{
+	width: 198px;
+	float: right;
+}
+footer{
+	background-color: black;
+	color: white;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
